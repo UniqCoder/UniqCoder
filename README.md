@@ -6,6 +6,8 @@
 
 I build AI systems that feel effortless — voice-first interfaces, retrieval-augmented generation, and real-time data platforms. I care about answers that are **grounded in evidence**, interfaces that respond in **any language you speak**, and code that ships.
 
+🎮 **The banner shader is alive** — [play with the interactive version](https://uniqcoder.github.io) (the liquid follows your cursor).
+
 ---
 
 ### ⚡ Featured Projects
