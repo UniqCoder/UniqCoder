@@ -25,16 +25,3 @@ A production-grade, voice-first RAG system: ask a question by voice or text in *
 - 🌐 **Full multilingual loop** — Unicode-script language detection, per-language response selection, ~500ms answers
 
 <br />
-
-### 🧭 [PathPilot](https://github.com/UniqCoder/PathPilot)
-
-A companion that helps students navigate their growth — built with a clean, modern TypeScript stack.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20RAG%20%2F%20Voice-7c3aed?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=UniqCoder&color=7c3aed&style=flat-square&label=visitors" />
-</div>
